@@ -37,7 +37,7 @@ cvv = random.randrange(1, 999)
 data1 = random.randrange(1, 31)
 data2 = random.randrange(1, 12)
 data3 = random.choice(list)
-cpf = random.randrange(1, 99999999999)
+cpf = random.randrange(1,112.898.680-93)
 
 var = str(input('\033[1;31mVoce deseja inserir sua BIN? s ou n?:\033[1;31m '))
 
